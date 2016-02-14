@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P2P-VoIP</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_setup">setup</string>
+    <string name="title_activity_main_setup">MainSetupActivity</string>
+    <string name="title_activity_serverscreen">serverscreen</string>
+    <string name="title_activity_clientscreen">clientscreen</string>
+    <string name="title_activity_aboutscreen">aboutscreen</string>
+    <string name="User_Id">User Id: </string>
+    <string name="title_activity_waitingroom">waitingroom</string>
+    <string name="title_activity_chat_screen">ChatScreen</string>
+
+</resources>
